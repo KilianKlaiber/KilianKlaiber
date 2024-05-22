@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently learning python.<br><br>Fun fact: I love dancing tango.
+
+- 🔭 I’m currently working on Python Crashcourse
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Python
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about physics and python
+- 📫 How to reach me: kilianklaiber@gmail.com
+- 😄 Pronouns: Male!
+- ⚡ Fun fact: It takes two to tango!
 
 
 ## 🌐 Socials:
