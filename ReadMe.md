@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on Python Crashcourse
-- 🌱 I’m currently learning Python
+- 🔭 I am a Python Programmer
+- 🌱 I'm proficient in Python, Django, SQL, HTML/CSS
 - 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Python
+- 🤔 I’m offering help with Python
 - 💬 Ask me about physics and python
 - 📫 How to reach me: kilianklaiber@gmail.com
 - 😄 Pronouns: Male!
