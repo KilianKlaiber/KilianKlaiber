@@ -2,6 +2,7 @@
 
 - 🔭 I am a Python Programmer
 - 🌱 I'm proficient in Python, Django, SQL, HTML/CSS
+- 🤔 Currently learning Go
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m offering help with Python
 - 💬 Ask me about physics and python
